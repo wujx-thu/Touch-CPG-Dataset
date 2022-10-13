@@ -1,4 +1,4 @@
-# Touch-CPG-Dataset
+# Touch-CPG-Dataset (maturing)
 ## Overview
 This dataset includes the touchscreen output (raw CPG records) and PPG data collected simultaneously.
 ## Contact
