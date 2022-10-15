@@ -30,7 +30,7 @@ An overview of the CPG dataset is as follow .Listed in the table are the number 
 |Total|388|809.27|30071|
 
 The heartbeat periodicity of CPG is roughly consistent with the finger PPG, but there are significant differences in morphology . The main reason is that the basic noise of the touchscreen is unstable and quite large for CPG signals.Comparison between CPG with PPG for different individuals are as follow. The blue waves are CPG, and the red ones are PPG.
-<img src="./difference.JPG" alt="图片" style="zoom:50%;" />
+<img src="./difference.JPG" alt="图片" style="zoom:30%;" />
 
 ## Contact
 Jinxiao Wu (wujx16@mails.tsinghua.edu.cn), Department of Automation, Tsinghua University
