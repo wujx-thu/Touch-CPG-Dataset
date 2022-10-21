@@ -35,9 +35,8 @@ The heartbeat periodicity of CPG is roughly consistent with the finger PPG, but 
 ## Contact
 Jinxiao Wu (wujx16@mails.tsinghua.edu.cn), Department of Automation, Tsinghua University
 
-## Privacy
-
-Before the experiment, the volunteers had carefully read and signed the informed consent form approved by the Ethics Committee of the Department of Psychology of Tsinghua University . And then, a five-minute brief introduction was given to each participant, including the use of the APP and the protocol of the data collection. When disclosing the dataset, we strictly protect the personal privacy information of the collected person, including personal identity information, contact information and other sensitive information.
+## Ethical Approval
+This work involved human subjects or animals in its research. Approval of all ethical and experimental procedures and protocols was granted by the Ethics Committee of the Department of Psychology of Tsinghua University under Application No. 26 (2020) and performed in line with the Declaration of Helsinki.
 
 ## Download
 - This database is released to universities and research institutes for research purpose only.
